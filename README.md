@@ -9,7 +9,7 @@ A Colorado Board of Education employee has given us the following tasks to compl
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-##Resources
+## Resources
 
 -- Data Source: election_results.csv
 -- Software: Python 3.6.1, Visual Studio Code, 1.38.1
