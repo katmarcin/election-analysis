@@ -1,7 +1,7 @@
 # election-analysis
 
 ## Project Overview
-A Colorado Board of Education employee has given us the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Education employee has given us the following tasks to complete the election audit of a recent local congressional election. Our purpose is to compile this data to present to then present it to the employee in a manner that is concise and accurate. 
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -29,6 +29,8 @@ The analysis of the election shows that:
     * Diana DeGette, who received 73.8% of the vote and 272892 number of votes.
     
 ## Challenge Overview
+
+
 
 ## Challenge Summary
 
